@@ -40,7 +40,7 @@ To evaluate players objectively, we developed custom scoring models based on mul
 **Algorithm:** Utilized **Pythagorean Win Percentage** to convert projected runs scored (RS) and runs allowed (RA) into winning probabilities.
 
 **Monte Carlo Simulation:** Ran **10,000+ iterations** to account for seasonal volatility, injuries, and "luck" factors to generate a statistically sound win-mean and confidence intervals.
-
+<img width="1269" height="716" alt="키움예측모델" src="https://github.com/user-attachments/assets/e6f46d0e-c096-4a80-8e5a-04e1c94896e7" />
 
 
 ### 4. Financial & Recruitment Optimization
@@ -56,6 +56,9 @@ To evaluate players objectively, we developed custom scoring models based on mul
 **Baseline Forecast:** Before recruitment, the 2026 model predicted a last-place finish with approximately **37–40 wins**.
 
 **Post-Recruitment Forecast:** With strategic FA signings targeting high-impact batters and relief pitching, simulations show a significant jump to **50+ wins**.
+<img width="1273" height="715" alt="mainprojectresult" src="https://github.com/user-attachments/assets/e04c67bd-88f7-42b4-b201-56eae3be01b6" />
+
+
 
 ## 🛠 Tech Stack
 
