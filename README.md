@@ -1,6 +1,6 @@
 # ⚾ Kiwoom Heroes: Data-Driven Team Revitalization Strategy
 
-**2025-2 DScover Main Project**
+**2025-2 DScover Main Project(Grand Prize - 1st Place)**
 
 ## 📌 Project Overview
 
