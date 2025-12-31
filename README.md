@@ -6,6 +6,9 @@
 
 The Kiwoom Heroes have faced significant performance declines in recent seasons. This project employs a data-driven approach to identify the team's core structural weaknesses and propose a mathematically optimized recruitment strategy for the 2026 KBO season. By combining multivariate regression, Pythagorean expectation, and Monte Carlo simulations, we forecast a path from a projected 40-win season to a competitive 50+ win baseline.
 
+<img width="1270" height="717" alt="스크린샷 2025-12-31 오후 9 48 57" src="https://github.com/user-attachments/assets/01e6e5ba-f1bf-4522-8c84-a8e9a6102197" />
+
+
 ## 📊 Data Sources
 **Performance Data:** 2021–2025 player and team statistics for Kiwoom and the wider KBO (Source: Baseball Reference).
  
